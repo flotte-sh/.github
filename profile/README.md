@@ -30,5 +30,5 @@ we think ssh access should be **just-in-time**, **transparent**, and **easy to t
  
 ### Say hi 👋
  
-Drop a note in Issues or Discussions or just email us at `hello@flotte.sh`.
-thanks for passing by — and welcome aboard the flotte 🛶
+Drop a note in Issues or Discussions or just email us at `hello@flotte.sh`. \
+Thanks for passing by — and welcome aboard the flotte 🛶
