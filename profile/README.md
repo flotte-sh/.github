@@ -11,6 +11,7 @@ we’re **Flotte** — and we are building a tool to make **SSH access for teams
 - **clear permissions** – you know *who* can reach *what*, and why  
 - **fits your workflow** – use your normal `ssh`, we handle the boring bits  
 - **trust but verify** – human-readable audit trails without the detective work
+- **Efficent workflows** – users don't need to lookup credentials, they can just get the job done
  
 we’re aiming for that sweet spot: secure by default, still delightful to use and easy to manage.
  
